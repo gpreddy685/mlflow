@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/57e977ed96ad4698a9c61df88662a848/artifacts
+end_time: 1744297091928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e977ed96ad4698a9c61df88662a848
+run_name: sincere-fish-414
+run_uuid: 57e977ed96ad4698a9c61df88662a848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744297090951
+status: 4
+tags: []
+user_id: Chakradhar

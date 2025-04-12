@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/435169490708821390/b26405d9931141f9854a5dcee5be15d7/artifacts
+deleted_time: 1744298726610
+end_time: 1744298567135
+entry_point_name: ''
+experiment_id: '435169490708821390'
+lifecycle_stage: deleted
+run_id: b26405d9931141f9854a5dcee5be15d7
+run_name: spiffy-doe-239
+run_uuid: b26405d9931141f9854a5dcee5be15d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744298566316
+status: 3
+tags: []
+user_id: Chakradhar

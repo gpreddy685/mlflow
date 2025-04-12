@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/186314398810261200/9f5db2f13a254b3493f1b69b4e83279e/artifacts
+end_time: 1744299607867
+entry_point_name: ''
+experiment_id: '186314398810261200'
+lifecycle_stage: active
+run_id: 9f5db2f13a254b3493f1b69b4e83279e
+run_name: rebellious-crab-526
+run_uuid: 9f5db2f13a254b3493f1b69b4e83279e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744299595137
+status: 3
+tags: []
+user_id: Chakradhar

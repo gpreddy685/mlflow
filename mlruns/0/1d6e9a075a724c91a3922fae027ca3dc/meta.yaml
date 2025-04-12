@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d6e9a075a724c91a3922fae027ca3dc/artifacts
+end_time: 1744296027689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d6e9a075a724c91a3922fae027ca3dc
+run_name: nimble-snake-295
+run_uuid: 1d6e9a075a724c91a3922fae027ca3dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744296027610
+status: 4
+tags: []
+user_id: Chakradhar

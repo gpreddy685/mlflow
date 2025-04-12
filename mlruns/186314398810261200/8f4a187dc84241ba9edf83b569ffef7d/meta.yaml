@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/186314398810261200/8f4a187dc84241ba9edf83b569ffef7d/artifacts
+end_time: 1744468660861
+entry_point_name: ''
+experiment_id: '186314398810261200'
+lifecycle_stage: active
+run_id: 8f4a187dc84241ba9edf83b569ffef7d
+run_name: unequaled-hare-452
+run_uuid: 8f4a187dc84241ba9edf83b569ffef7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744468660179
+status: 4
+tags: []
+user_id: Chakradhar

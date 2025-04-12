@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/74ee34d14e9244cda65a69aacd6cccc3/artifacts
+end_time: 1744297493484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74ee34d14e9244cda65a69aacd6cccc3
+run_name: grandiose-foal-62
+run_uuid: 74ee34d14e9244cda65a69aacd6cccc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744297493036
+status: 4
+tags: []
+user_id: Chakradhar

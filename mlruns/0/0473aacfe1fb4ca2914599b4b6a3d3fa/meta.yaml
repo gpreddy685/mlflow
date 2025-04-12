@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0473aacfe1fb4ca2914599b4b6a3d3fa/artifacts
+end_time: 1744295697195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0473aacfe1fb4ca2914599b4b6a3d3fa
+run_name: intrigued-shoat-517
+run_uuid: 0473aacfe1fb4ca2914599b4b6a3d3fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744295696866
+status: 3
+tags: []
+user_id: Chakradhar
